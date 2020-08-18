@@ -4,7 +4,7 @@
 		"image": "textattack.gif",
 		"url": "https://textattack.readthedocs.io/en/latest/#",
 		"date": "Jul 2020",
-		"tags": ["Adversarial Attack", "Robustness", "NLP", "Deep Learning"]
+		"tags": ["Adversarial Attack", "Robustness", "NLP"]
 	},
 	{
 		"name": "TitleStylist",
