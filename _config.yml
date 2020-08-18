@@ -36,10 +36,12 @@ share:
 urls:
     - text: About Me
       url: /about/
+    - text: Publications
+      url: /publications/
     - text: Projects
       url: /projects/
-    - text: Blogs
-      url: /blogs/
+#     - text: Blogs
+#       url: /blogs/
 # url: "http://localhost:4000"
 # url: "https://tmjam.github.io/tauseef-blog"
 baseurl: ""
