@@ -9,6 +9,7 @@
 	{
 		"name": "TitleStylist",
 		"image": "titlestylist.jpg",
+		"url": "https://github.com/jind11/TitleStylist",
 		"date": "Jun 2020",
 		"description": "This tool can help generate stylistic headlines given any articles.",
 		"tags": ["Stylistic Text Generation", "NLP", "Summarization"]
