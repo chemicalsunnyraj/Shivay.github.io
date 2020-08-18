@@ -4,6 +4,7 @@
 		"image": "textattack.gif",
 		"url": "https://textattack.readthedocs.io/en/latest/#",
 		"date": "Jul 2020",
+		"description": "This framework incorporates almost all existing adversarial attack methods.",
 		"tags": ["Adversarial Attack", "Robustness", "NLP"]
 	},
 	{
@@ -18,6 +19,7 @@
 		"name": "TextFooler",
 		"image": "textfooler.jpg",
 		"url": "http://news.mit.edu/2020/hey-alexa-sorry-i-fooled-you-0207",
+		"description": "This tool can generate new texts that resemble original ones but can fool models.",
 		"date": "Feb 2020",
 		"tags": ["NLP", "Adversarial Attack"]
 	}
