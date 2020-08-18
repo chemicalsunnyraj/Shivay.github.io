@@ -10,4 +10,4 @@ I am Di. I enjoy research and always try this and that out and see whether somet
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="https://www.dropbox.com/s/wsvp5w2muwcp3gc/cv_jindi_full.pdf" width="100%" height="900"></iframe>
+<iframe src="https://drive.google.com/file/d/1Vanl1SoNJeG_B3cLl1t5pDrmfoteh3Ae/view?usp=sharing" width="100%" height="900"></iframe>
