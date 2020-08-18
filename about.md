@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 <p>
-I am currently a Sr. Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a>. I consider myself as a full-stack developer and equally excited working on both ends. I like complex problem sovling and coming up with an efficient solution.I am passionate about learning new technologies and implementing them. 
+I am Di. I enjoy research and always try this and that out and see whether something magic can be created to the world. I like NLP, especially on transfer learning, question answering, adversarial robustness, and conversational AI. I am happy to connect and discuss anything interesting about research, about NLP, or about future technologies!
 </p>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="https://drive.google.com/open?id=18xHF4SRS3pEAnxkowZhucR2UFtVALNuD" width="100%" height="900"></iframe>
+<iframe src="https://www.dropbox.com/s/wsvp5w2muwcp3gc/cv_jindi_full.pdf?dl=0" width="100%" height="900"></iframe>
