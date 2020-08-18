@@ -46,7 +46,7 @@ baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/blogs/page/:num/"
-markdown: jindi
+# markdown: jindi
 gems:
   - jekyll-paginate
   - jekyll-gist
